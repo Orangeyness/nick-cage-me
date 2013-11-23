@@ -1,0 +1,3 @@
+nick_cage_me_homepage:
+    path: /
+    defaults: { _controller: NickCageMeBundle:Default:index }

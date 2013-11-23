@@ -1,0 +1,4 @@
+nick_cage_me:
+    resource: "@NickCageMeBundle/Resources/config/routing.yml"
+    prefix:   /
+
